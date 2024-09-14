@@ -1,0 +1,63 @@
+.main{
+    background-color: cadetblue;
+    border-radius: 30px;
+    width: 1500px;
+    height: 1500px;
+    margin: auto;
+
+}
+
+.child{
+    color: white;
+    background-color: red;
+    border: 1pz solid black;
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 17px;
+    margin-top: 30px;
+}
+
+.main2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.oybek{
+    width: 450px;
+    height: 250px;
+    margin-top: 100px;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+
+.child2{
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    width: 250px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.child3{
+    background-color: yellow;
+    border: 60px solid red;
+    border-radius: 40px;
+    width: 400px;
+    height: 150px;
+}
+
+.dom{
+    display: flex;
+    justify-content: space-around;
+}
